@@ -17,3 +17,4 @@ requisições que são feitas e ela não fica na parte do cliente e nem do servi
 
 > Stripe para simulação de pagamentos
 > Sass pré processador css
+> Next-auth -> for authentication
